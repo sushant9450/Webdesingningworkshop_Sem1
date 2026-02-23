@@ -1,2 +1,2 @@
-# Webdesingningworkshop_Sem1
+# Webdesingningworkshop_Sem2
 JavaScript and React
